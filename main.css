@@ -32,7 +32,7 @@ p{
 
 body{
 
-    background-image:url(image/Background.jpg);
+    background-image:url(image/background.jpg);
     background-repeat: no-repeat;
     background-position-x: center;
     background-attachment: fixed;
