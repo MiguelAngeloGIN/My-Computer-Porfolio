@@ -53,5 +53,8 @@ body{
 .logo{
  box-shadow: 5px 5px 5px;
  border-radius: 50%;  
+justify-content: center;
+ align-items: center;
+}
 }
 
