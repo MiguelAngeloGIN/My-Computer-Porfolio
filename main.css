@@ -41,13 +41,17 @@ body{
 }
 
 
-.logo{
+.logos{
     display: flex;
-    box-shadow: 5px 5px 5px;
-    border-radius: 50%;
-    margin: 25px;
+    gap: 30px
+    margin:20px
     justify-content: center;
     align-items: center;
 }
 
+
+.logo{
+ box-shadow: 5px 5px 5px;
+ border-radius: 50%;  
+}
 
